@@ -1,4 +1,5 @@
 # RECIPE-APP
+[Live Demo](https://recipe-app-wedev.netlify.app/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
